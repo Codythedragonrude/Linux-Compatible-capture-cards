@@ -1,0 +1,2 @@
+# Linux-Compatible-capture-cards
+A place to list capture cards that actually work on linux
