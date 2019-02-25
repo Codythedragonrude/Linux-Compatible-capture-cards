@@ -1,0 +1,5 @@
+Product name:August VGB 100 (Shows up as geniatech otg 102 in linux)
+Type:USB 2.0 Dongle
+Output:720x480 NTSC 
+Results:Works but svideo shows up as black and white pushes everything through the composite line 
+moving svideo wires to composite pins or using a workaround to get svideo working causes intense rainbowing effect on svideo
